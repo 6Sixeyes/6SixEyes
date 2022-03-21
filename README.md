@@ -2,7 +2,7 @@
 
   <a href="https://github.com/6SixEyes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=6SixEyes&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6SixEyes&layout=compact&langs_count=7&theme=cobalt"/>
+  
 
 <h3> Tecnologias utilizadas no meu dia a dia </h3>
 <div style="display: inline_block"></br>
